@@ -1,2 +1,2 @@
 # Goldfish19auctions
-Fictitious Auction Website
+Website for a fictional auction company.
